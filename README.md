@@ -17,7 +17,7 @@
 > The PyEphem version had known stability issues and could occasionally crash Home Assistant in edge-case sun/observer geometry. This rewrite removes that dependency entirely.
 
 
-# HA-Sol
+# HA Sol (jrx-code)
 
 *Humans have tracked the movements of the sun, moon, and planets since before written history — using them to mark the seasons, navigate oceans, plan harvests, and build calendars that still echo in the ones we use today. Sol — Latin for "sun", named for the Roman solar deity, and a nod to Sól, the Norse goddess who carries the sun across the sky — brings that same obsession to Home Assistant, with rather better tooling.*
 

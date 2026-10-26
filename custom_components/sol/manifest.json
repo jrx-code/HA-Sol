@@ -1,6 +1,6 @@
 {
   "domain": "sol",
-  "name": "Sol",
+  "name": "HA Sol (jrx-code)",
   "codeowners": [
     "@okkine"
   ],
@@ -16,6 +16,6 @@
     "ambiance"
   ],
   "ssdp": [],
-  "version": "2026.10.26.1",
+  "version": "2026.10.26.2",
   "zeroconf": []
 }
